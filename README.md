@@ -34,10 +34,15 @@ WALMART SALES EXPLORATORY.sql
 Run the Walmart_Sales_Forecasting.ipynb notebook to visualize the data and execute the machine learning tasks.
 ## Dependencies
 SQL Server
+<br>
 Python 3.x
+<br>
 Jupyter Notebook
+<br>
 Libraries: pandas, numpy, scikit-learn, AutoML, XGBoost, matplotlib, seaborn
+<br>
 License
+<br>
 This project is open-sourced under the MIT License.
 
 ## Author
