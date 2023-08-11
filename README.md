@@ -22,11 +22,15 @@ The project achieved impressive results, with the final model capturing 98.3% of
 
 ## Getting Started
 Clone the repository to your local machine.
-<br>---
+<br>
 Execute the SQL files in the following order:
+<br>
 WALMART SALES TABLES.sql
+<br>
 WALMART SALES DATA PROCESSING.sql
+<br>
 WALMART SALES EXPLORATORY.sql
+<br>
 Run the Walmart_Sales_Forecasting.ipynb notebook to visualize the data and execute the machine learning tasks.
 ## Dependencies
 SQL Server
