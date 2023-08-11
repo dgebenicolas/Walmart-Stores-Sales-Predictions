@@ -40,10 +40,7 @@ Python 3.x
 Jupyter Notebook
 <br>
 Libraries: pandas, numpy, scikit-learn, AutoML, XGBoost, matplotlib, seaborn
-<br>
-License
-<br>
-This project is open-sourced under the MIT License.
+
 
 ## Author
 Dgebe Nicolas
